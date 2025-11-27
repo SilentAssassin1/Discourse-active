@@ -1,2 +1,2 @@
-# Discourse论坛必备
+# Discourse论坛必备(monkey)
 可以自动刷帖子，快速升三级，快速到黄金
